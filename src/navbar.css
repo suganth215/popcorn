@@ -1,0 +1,47 @@
+#headerStyles
+{
+    font-size: 3.2vw;
+    font-family: Raleway;
+    color: black;
+    font-Weight: bold;
+    /* text-shadow: 0px 1px, 1px 0px, 1px 0px;  */
+}
+#headerStyles2
+{
+    font-size: 3.2vw;
+    font-family: Raleway;
+    color: black;
+}
+#headerStyles3
+{
+    font-size: 2.4vw;
+    font-family: Raleway;
+    color: black;
+}
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 768px)
+{
+
+#headerStyles
+{
+    font-size: 6vw;
+    font-family: Raleway;
+    color: black;
+    font-Weight: bold;
+    /* textShadow: '0px 1px, 1px 0px, 1px 0px'; */
+}
+#headerStyles2
+{
+    font-size: 6vw;
+    font-family: Raleway;
+    color: black;
+}
+#headerStyles3
+{
+    font-size: 4.5vw;
+    font-family: Raleway;
+    color: black;
+}
+}
