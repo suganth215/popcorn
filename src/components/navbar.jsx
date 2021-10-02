@@ -7,9 +7,9 @@ class NavBar extends React.Component {
             <nav class="navbar navbar-expand-sm">
                  <div class="container-fluid">
                     <a class="navbar-brand" href="#">
-                    <span id='headerStyles2' style={this.headerStyles2}>Pop</span><span id='headerStyles' style={this.headerStyles}>corn</span>
+                    <span id='headerStyles' style={this.headerStyles}>Popcorn</span>
                     </a>
-                    <a id='headerStyles3' style={this.headerStyles3}class="navbar-brand" href="#">
+                    <a id='headerStyles2' style={this.headerStyles2}class="navbar-brand" href="#">
                         About
                     </a>
                 </div>
